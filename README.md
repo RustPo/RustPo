@@ -1,8 +1,9 @@
 # 👋 Hi, my name is **Denis Akhmetov**!
-### Check my projects: [Epidiary](https://github.com/RustPo/ediary)
+### Check my projects: [Epidiary](https://github.com/RustPo/epidiary)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node)
