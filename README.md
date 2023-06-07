@@ -14,7 +14,7 @@ Techonologies | Description                 | Tools
 ![DATA](https://img.shields.io/badge/DATA-20232A?style=for-the-badge) | ORM & DATABASE                  | ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql) ![sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
 ![Development & Deploy](https://img.shields.io/badge/Development&Deploy-20232A?style=for-the-badge)| services                    | ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=blue) ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github) ![git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
  ![Testing](https://img.shields.io/badge/Testing-20232A?style=for-the-badge) | test    | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-the-badge&logo=jest&logoColor=brown) ![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman) ![eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
-![Currently learning](https://img.shields.io/badge/Currently--learning-20232A?style=for-the-badge)|  no pain no gain | ![C#](https://img.shields.io/badge/c%23-20232A.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Currently learning](https://img.shields.io/badge/Currently--learning-20232A?style=for-the-badge)|  no pain no gain | ![TypeScript](https://img.shields.io/badge/typescript-20232A.svg?style=for-the-badge&logo=typescript&logoColor=blue) ![C#](https://img.shields.io/badge/c%23-20232A.svg?style=for-the-badge&logo=c-sharp&logoColor=green)
 
 <br />
 <br />
