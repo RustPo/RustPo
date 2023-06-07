@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Denis Akhmetov**!
-### Check my projects: [Epidiary](https://github.com/RustPo/epidiary)
+### Check my projects: [Epidiary](https://github.com/RustPo/epidiary), [Flashcards](https://github.com/RustPo/Web-flashcards)
 ---
 
 <br/>
@@ -19,9 +19,21 @@ Techonologies | Description                 | Tools
 
 <br />
 <br />
-### 💬 Mail me: rust.futer@gmail.com
-### ⚡ Telegram: [rust_po](https://t.me/rust_po)
-#
+
+---
+
+<h3 align="left">💬 Find me:</h3>
+<br />
+  <a target="_blank" href="mailto:rust.futer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <br />
+  <br />
+  <a target="_blank" href="https://t.me/rust_po">
+    <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+---
 
 <!--
 **RustPo/RustPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
