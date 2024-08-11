@@ -1,5 +1,4 @@
 # 👋 Hi, my name is **Denis Akhmetov**!
-### Check my projects: [Epidiary](https://github.com/RustPo/epidiary), [Flashcards](https://github.com/RustPo/Web-flashcards)
 ---
 
 <br/>
